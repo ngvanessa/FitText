@@ -1,0 +1,23 @@
+/* Styling */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+    background: beige;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    text-align: left;
+    color: gray;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 6em;
+    text-align: center;
+    color: #a10022;
+}
